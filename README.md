@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Página Em Construção
 
 Uma página moderna e responsiva "Em Construção" criada com Next.js que exibe informações da empresa a partir de variáveis de ambiente.
@@ -69,3 +70,6 @@ npm start
 yarn build
 yarn start
 ```
+=======
+# em-construcao
+>>>>>>> e6f76d1ec448ca2efc114c5a56ce8b053af853fa
